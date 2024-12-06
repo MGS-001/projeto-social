@@ -34,3 +34,16 @@ iframe#tela{
     height: 469px;
     position: relative;
 }
+
+#rede-sociais{
+  display: block;
+  text-align: right;
+
+}
+
+#rede-sociais, img{
+    width: 50px;
+    border-radius: 50%;
+}
+
+
